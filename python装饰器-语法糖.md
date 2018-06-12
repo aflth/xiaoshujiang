@@ -7,11 +7,11 @@ tags:
 - 装饰器
 categories: Python
 password:
-summary_img:
+summary_img: /images/3.jpg
 ---
 
 <!-- more -->
-
+![人生苦短，我用python](images/4_1.png)
 # 我对装饰器的认识
 
 	装饰器，就是函数套函数，并且是将另一个函数当做参数传入另一个函数中，曾有位大佬称，一个是内裤，一个是冬库，当内裤不能够阻止寒冷，而发明了冬裤。
