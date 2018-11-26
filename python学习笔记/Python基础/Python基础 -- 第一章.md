@@ -1,5 +1,5 @@
 ---
-title: Python基础 -- 第一章
+title: Python基础
 tags:
   - 语法 语义
   - 变量赋值
