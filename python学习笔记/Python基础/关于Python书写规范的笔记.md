@@ -5,7 +5,7 @@ tags:
 categories:
   - Python
 photos:
-  - /images/图片名称
+  - ./images/Wallions283590.jpg
 date: 2018-11-21 21:22:31
 ---
 
