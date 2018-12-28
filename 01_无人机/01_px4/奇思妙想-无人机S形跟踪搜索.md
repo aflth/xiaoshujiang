@@ -13,7 +13,7 @@ date: 2018-11-21 21:22:31
 <blockquote class="blockquote-center">优秀的人，不是不合群，而是他们合群的人里面没有你</blockquote>
 
 ---
-![test](https://markdown.xiaoshujiang.com/img/spinner.gif "[[[1545996722735]]]" )
+![test](http://xiaoshujiang/小书匠/Wallions280129.jpg "Wallions280129")
 
 # 一、什么是S形跟踪搜索
 
