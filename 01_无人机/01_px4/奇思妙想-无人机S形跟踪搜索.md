@@ -6,7 +6,7 @@ tags:
 categories:
   - 奇思妙想
 photos:
-      -![奇思妙想](https://markdown.xiaoshujiang.com/img/spinner.gif "[[[1545977642424]]]" )
+      -![test](https://res.cloudinary.com/aflthblog/image/upload/v1542423142/Wallions282218.jpg)
 date: 2018-11-21 21:22:31
 ---
 
@@ -14,7 +14,7 @@ date: 2018-11-21 21:22:31
 
 ---
 ![test](http://xiaoshujiang/小书匠/Wallions280129.jpg "Wallions280129")
-
+![test](https://res.cloudinary.com/aflthblog/image/upload/v1542423142/Wallions282218.jpg)
 # 一、什么是S形跟踪搜索
 
 
