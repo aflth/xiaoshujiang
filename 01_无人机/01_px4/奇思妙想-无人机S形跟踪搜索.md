@@ -6,7 +6,7 @@ tags:
 categories:
   - 奇思妙想
 photos:
-  - ![奇思妙想](http://www.dove.wiki/小书匠/Wallions274660.jpg "Wallions274660")
+      -![奇思妙想](https://markdown.xiaoshujiang.com/img/spinner.gif "[[[1545977642424]]]" )
 date: 2018-11-21 21:22:31
 ---
 
