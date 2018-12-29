@@ -6,7 +6,7 @@ tags:
 categories:
   - 奇思妙想
 photos:
-      -![test](https://res.cloudinary.com/aflthblog/image/upload/v1542423142/Wallions282218.jpg)
+  - [test](<iframe width="500" height="300" src="https://wallions.com/embed/282218" frameborder="0"></iframe>)
 date: 2018-11-21 21:22:31
 ---
 
