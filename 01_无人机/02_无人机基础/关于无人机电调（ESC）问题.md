@@ -69,3 +69,13 @@ photos:
 	- FPVMODEL
 
 ![四合一电调](https://res.cloudinary.com/aflthblog/image/upload/v1546661462/webimage/dys-f20a-4-in-1-esc-700x700.jpg)
+
+
+# ESC校准
+
+## ESC校准的三种方法
+
+- 通过编程卡直接设置电调参数（未实践）
+	- 好盈无刷电调参数编程卡
+- 通过USB连接计算机（文章开头简绍）
+- 通过遥控器（为实践）
