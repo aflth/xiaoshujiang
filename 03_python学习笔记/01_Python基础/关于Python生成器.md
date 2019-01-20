@@ -6,7 +6,7 @@ categories:
   - Python
   - Python基础
 photos:
-  - /images/图片名称
+  - https://res.cloudinary.com/aflthblog/image/upload/v1542423195/Wallions282065.jpg
 ---
 
 <blockquote class="blockquote-center">有人帮助你，是你的幸运；无人帮助你，是公正的命运；没有人该对你做什么，因为生命是你自己的，你得自己负责。</blockquote>
