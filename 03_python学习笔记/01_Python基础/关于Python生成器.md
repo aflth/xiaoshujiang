@@ -1,7 +1,7 @@
 ---
 title: 关于Python生成器
 tags:
-  -  生成器
+  - 生成器
 categories:
   - Python
   - Python基础
